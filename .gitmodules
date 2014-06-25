@@ -1,0 +1,36 @@
+[submodule "nixpkgs"]
+	path = nixpkgs
+	url = https://github.com/nixos/nixpkgs.git
+[submodule "nixops"]
+	path = nixops
+	url = https://github.com/nixos/nixops.git
+[submodule "cabal2nix"]
+	path = cabal2nix
+	url = https://github.com/nixos/cabal2nix.git
+[submodule "nixos-homepage"]
+	path = nixos-homepage
+	url = https://github.com/nixos/nixos-homepage.git
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/nixos/hydra.git
+[submodule "nix"]
+	path = nix
+	url = https://github.com/nixos/nix.git
+[submodule "npm2nix"]
+	path = npm2nix
+	url = https://github.com/nixos/npm2nix.git
+[submodule "nixos-org-configurations"]
+	path = nixos-org-configurations
+	url = https://github.com/nixos/nixos-org-configurations.git
+[submodule "patchelf"]
+	path = patchelf
+	url = https://github.com/nixos/patchelf.git
+[submodule "nixos"]
+	path = nixos
+	url = https://github.com/nixos/nixos.git
+[submodule "hydra-ant-logger"]
+	path = hydra-ant-logger
+	url = https://github.com/nixos/hydra-ant-logger.git
+[submodule "nix-eclipse"]
+	path = nix-eclipse
+	url = https://github.com/nixos/nix-eclipse.git
